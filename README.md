@@ -4,4 +4,5 @@
 
 ### Sobre mim
 Sou uma desenvolvedora Full-Stack com interesse em Node.js, React e React Native. Tento sempre aprender um pouquinho mais sobre essas tecnologias ⚛️.
-Atualmente trabalho como QA e atuar na ára da qualidade me fez ter uma grande visão sobre a importância de realizar os testes unitários e como as metodologias ágeis ajudam no nosso dia a dia.
+
+Atualmente trabalho como QA e atuar na ára da qualidade me fez ter uma grande visão sobre a importância de realizar os testes unitários e como as metodologias ágeis ajudam no nosso dia a dia 💻.
