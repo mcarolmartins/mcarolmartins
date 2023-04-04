@@ -1,9 +1,9 @@
-# Oi, sou a Maria Carolina! 👋
+# Hi everyone! I'm Carol 👋
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mcarolmartins)](https://github.com/mcarolmartins)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcarolmartins/)](https://www.linkedin.com/in/mcarolmartins/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carolalmeidam/)](https://www.instagram.com/carolalmeidam/)
 
-### Sobre mim
-Sou uma desenvolvedora Full-Stack com interesse em Node.js, React e React Native. Tento sempre aprender um pouquinho mais sobre essas tecnologias ⚛️.
+### About me
+Software Engineer with interests in React, NodeJS and TypeScript, always trying to refine my knowledge with said technologies, while learning new ones. Highly focused on delivering the best experience to the final user.
 
-Atualmente trabalho como QA e atuar na área da qualidade me fez ter uma grande visão sobre a importância de realizar os testes unitários e como as metodologias ágeis ajudam no nosso dia a dia 💻.
+
